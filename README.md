@@ -1,1 +1,0 @@
-# maidaniuk-i.github.io
