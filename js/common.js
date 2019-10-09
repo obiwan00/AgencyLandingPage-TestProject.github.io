@@ -108,8 +108,8 @@ if(screen.width >= 992){
             responsive: [{
                 breakpoint: 451,
                 settings:{
-                    centerMode: false,
-                    slidesToShow: 2,
+                    
+                    slidesToShow: 3,
                   slidesToScroll: 1,
                 }
             }]
