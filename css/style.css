@@ -513,8 +513,8 @@ textarea[type="text"]{
 }
 input[type="text"]:focus,
 textarea[type="text"]:focus{
-    border-color: rgb(255, 228, 228);
-    box-shadow: 0 0 8px 0 rgb(255, 228, 228);
+    border-color: rgba(170, 20, 9, 0.555);
+    box-shadow: 0px 0 8px 0 rgba(128, 13, 5, 0.541);
 }
 .section-mailing input{
     border-radius: 5px;
