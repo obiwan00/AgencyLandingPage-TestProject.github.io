@@ -1,8 +1,8 @@
 "use strict";
 ///iframe////
-$(function() {
-    $("iframe[data-src]").Lazy();
-});
+// $(function() {
+//     $("iframe[data-src]").Lazy();
+// });
 ////menu///
 $(".nav-bar-btn").on("click", function () {
     if(!$(".header-menu").hasClass("active")){
