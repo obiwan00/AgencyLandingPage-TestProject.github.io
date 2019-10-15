@@ -2,7 +2,7 @@
 ///iframe////
 $('.head-content-right').click(function(){
     $('.head-content-right').addClass("active");
-    $('.head-content-right iframe').attr("src", 'https://www.youtube.com/embed/0pmviUS1Zac');
+    $('.head-content-right iframe').attr("src", 'https://www.youtube.com/embed/0pmviUS1Zac?autoplay=1');
     console.log(1)
 });
 ////menu///
