@@ -1,8 +1,10 @@
 "use strict";
 ///iframe////
-// $(function() {
-//     $("iframe[data-src]").Lazy();
-// });
+$('.head-content-right').click(function(){
+    $('.head-content-right').addClass("active");
+    $('.head-content-right iframe').attr("src", 'https://www.youtube.com/embed/0pmviUS1Zac');
+    console.log(1)
+});
 ////menu///
 $(".nav-bar-btn").on("click", function () {
     if(!$(".header-menu").hasClass("active")){
