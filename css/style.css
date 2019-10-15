@@ -80,8 +80,7 @@ a{
     margin: 80px 0 110px 25px ;
 
 
-    background: url(../img/youtube-background.png) no-repeat;
-    background-size: cover;
+    background: center / cover no-repeat url(../img/youtube-background.png);
     
 }
 .head-content-right iframe{
